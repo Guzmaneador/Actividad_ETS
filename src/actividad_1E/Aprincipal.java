@@ -14,9 +14,10 @@ public class Aprincipal {
         System.out.print("Ingresa el tamaño del matriz n:");
         Tabla.crearTabla(Teclado.nextInt());
         System.out.println("HOLA HOLA CARACOLA");
-        //fin de la prueba jejeje
-        Tabla.crearTabla(Teclado.nextInt());
-        //nuevo contenido
+        //Ccontenido nuevo para la rama secundaria
+        for(int $i=0;$i<10;$i++){
+            System.out.println("Tonteria numero "+$i);
+        }
     }
     
     
