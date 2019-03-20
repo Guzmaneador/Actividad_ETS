@@ -13,9 +13,10 @@ public class Aprincipal {
         Scanner Teclado = new Scanner(System.in);
         System.out.print("Ingresa el tamaño del matriz n:");
         Tabla.crearTabla(Teclado.nextInt());
-        //vamos hacer un print 
         System.out.println("HOLA HOLA CARACOLA");
-        //fin de la preuba
+        //fin de la prueba jejeje
+        Tabla.crearTabla(Teclado.nextInt());
+        //nuevo contenido
     }
     
     
